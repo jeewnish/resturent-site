@@ -59,23 +59,23 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'James Beard',
+    subtitle: 'James Beard Awards honor culinary excellence across various food industry sectors.',
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Bib Gourmand',
+    subtitle: 'Bib Gourmand recognizes excellent, affordable restaurants with high-quality cuisine.',
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'AA Hospitality Awards',
+    subtitle: 'AA Hospitality Awards focus on restaurant improvement and management excellence.',
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Zagat Awards',
+    subtitle: 'Zagat provides detailed reviews based on crowdsourced diner opinions.',
   },
 ];
 

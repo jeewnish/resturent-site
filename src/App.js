@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, SpecialMenu } from './container';
-import { Navbar } from './components';
+import { Navbar} from './components';
 import './App.css';
 
 const App = () => (
@@ -16,7 +16,9 @@ const App = () => (
     <Gallery />
     <FindUs />
     <Footer />
+
   </div>
+
 );
 
 export default App;

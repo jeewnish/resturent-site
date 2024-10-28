@@ -16,9 +16,9 @@ const Chef = () => (
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
-          <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .</p>
+          <p className="p__opensans">I'm not a chef. But I'm passionate about food - the tradition of it, cooking it, and sharing it.</p>
         </div>
-        <p className="p__opensans"> auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit. Nulla scelerisque scelerisque congue ac consequat, aliquam molestie lectus eu. Congue iaculis integer curabitur semper sit nunc. </p>
+        <p className="p__opensans"> As chefs at Gourmet, we are dedicated to crafting exceptional dishes that showcase the finest ingredients. Our passion for creativity and flavor drives us to deliver unforgettable culinary experiences. </p>
       </div>
 
       <div className="app__chef-sign">
